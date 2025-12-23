@@ -1,0 +1,16 @@
+{
+  "config": {
+    "n_wavelengths": 256,
+    "train_samples": 1000,
+    "model_type": "mlp"
+  },
+  "metrics": {
+    "mse": 0.0004295340331736952,
+    "mae": 0.016324792057275772,
+    "rmse": 0.020725202850001137,
+    "r2": 0.9332802295684814,
+    "avg_peak_error_bins": 1.59,
+    "max_peak_error_bins": 7,
+    "avg_cosine_similarity": 0.9988625049591064
+  }
+}
