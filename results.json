@@ -5,12 +5,12 @@
     "model_type": "mlp"
   },
   "metrics": {
-    "mse": 0.0004295340331736952,
-    "mae": 0.016324792057275772,
-    "rmse": 0.020725202850001137,
-    "r2": 0.9332802295684814,
-    "avg_peak_error_bins": 1.59,
-    "max_peak_error_bins": 7,
-    "avg_cosine_similarity": 0.9988625049591064
+    "mse": 0.0003721128450706601,
+    "mae": 0.01528148166835308,
+    "rmse": 0.019290226672350433,
+    "r2": 0.9373180270195007,
+    "avg_peak_error_bins": 1.43,
+    "max_peak_error_bins": 6,
+    "avg_cosine_similarity": 0.9989928603172302
   }
 }
